@@ -35,5 +35,6 @@
 }
 
 .my-drawing:hover {
-  transform: scale(1.054) rotate(15deg);
+  transform: scale(1.054) rotate(360deg) scale(1);
+  
 }
